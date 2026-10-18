@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main {
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+    padding-inline: 100px;
+    padding-top: 41px;
+}
+.section1 {
+    display: flex;
+    gap: 157px;
+}
+.image1 {
+    width: 241px;
+height: 52.56910705566406px;
+angle: 0 deg;
+opacity: 1;
+top: 0.22px;
+left: 0px;
+margin-bottom: 57px;
+}
+.image2 {
+    width: 308px;
+height: 376px;
+angle: 0 deg;
+opacity: 1;
+top: 38px;
+left: 1013px;
+margin-bottom: 14px;
+}
+button {
+    width: 204;
+height: 47.999996185302734;
+angle: 0 deg;
+opacity: 1;
+top: 428px;
+left: 100px;
+border-radius: 35px;
+padding-top: 10px;
+padding-right: 20px;
+padding-bottom: 10px;
+padding-left: 20px;
+    color: white;
+    background:#00AB89;
+    font-family: BPG Nino Mtavruli;
+font-weight: 700px;
+font-style: Bold;
+font-size: 20px;
+leading-trim: NONE;
+line-height: 140%;
+letter-spacing: 0%;
+text-align: right;}
+.text1 {
+    width: 756px;
+height: 115px;
+angle: 0 deg;
+opacity: 1;
+top: 259px;
+left: 100px;
+margin-bottom: 54px;}
+.satauri1 {
+    width: 756px;
+height: 78px;
+angle: 0 deg;
+opacity: 1;
+top: 151px;
+left: 100px;
+margin-bottom: 30px;
+font-weight: 700;
+font-style: Bold;
+font-size: 34px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+line-height: 40px;}
+.hr1 {
+    margin-top: 50px;
+    margin-bottom: 50px;}
+.section2 {
+    display: flex;
+    gap: 38px;}
+.image3 {
+    width: 388px;
+height: 278px;
+top: 586px;
+left: 100px;
+angle: 0 deg;
+opacity: 1;
+border-radius: 10px;
+margin-bottom: 40px;}
+.satauri2 {
+    width: 267px;
+height: 64px;
+top: 904px;
+left: 100px;
+angle: 0 deg;
+opacity: 1;
+color:#00AB89;}
+.image4 {
+    width: 388px;
+height: 382px;
+top: 586px;
+left: 526px;
+angle: 0 deg;
+opacity: 1;
+border-radius: 10px;
+}
+.satauri3 {
+    width: 289;
+height: 40;
+top: 616px;
+left: 952px;
+angle: 0 deg;
+opacity: 1;
+margin-bottom: 30px;
+}
+.text2 {
+    width: 383;
+height: 161;
+top: 686px;
+left: 952px;
+angle: 0 deg;
+opacity: 1;
+margin-bottom: 40px;
+}
+.button3 {
+    padding-left: 50px;
+    padding-right: 50px;
+}
